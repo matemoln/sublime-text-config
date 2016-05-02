@@ -1,0 +1,10 @@
+{
+        "pdf_viewer_osx": {
+        "skim": [
+            "/opt/homebrew-cask/Caskroom/skim/1.4.18/Skim.app"
+        ],
+        "preview": [
+            "/Applications/Preview.app"
+        ]
+    }
+}
