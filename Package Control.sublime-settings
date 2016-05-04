@@ -1,0 +1,26 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Dictionaries",
+		"DictionaryAutoComplete",
+		"EasyDiff",
+		"Emmet",
+		"EncodingHelper",
+		"Git",
+		"Gitignore",
+		"Indent XML",
+		"LaTeXing",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - SoDaReloaded"
+	]
+}
