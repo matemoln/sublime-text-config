@@ -1,6 +1,7 @@
 {
-	"extensions":
-	[
-		"gradle"
-	]
+    "extensions":
+    [
+        "groovy",
+        "gradle",
+    ]
 }
