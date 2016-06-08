@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"auto_complete_delay": 5,
 	"auto_complete_selector": "source, text",
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
