@@ -7,6 +7,7 @@ Package Control.merged-ca-bundle
 Package Control.user-ca-bundle
 Package Control.cache/
 Package Control.ca-certs/
+oscrypto-ca-bundle.crt
 
 #Git config - need to set on windows only
 Git.sublime-settings
