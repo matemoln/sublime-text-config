@@ -14,3 +14,6 @@ Git.sublime-settings
 
 #EasyDiff cache
 EasyDiff/
+
+#Dont want to share api tokens
+Gist.sublime-settings
