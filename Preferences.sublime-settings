@@ -40,5 +40,6 @@
 	"show_encoding": true,
 	"theme": "SoDaReloaded Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"perltidy_cmd": [ "/usr/local/bin/perltidy" ],
 }
