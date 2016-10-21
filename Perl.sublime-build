@@ -1,4 +1,5 @@
 {
-    "shell_cmd": "perl $file",
+    "shell_cmd": "perl -w $file",
+    "file_regex": ".* at (.*) line ([0-9]*)",
     "selector": "source.pl",
 }
