@@ -29,10 +29,13 @@
 		"Sort Lines By Selection",
 		"SourceTreeCommands",
 		"StyleToken",
+		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-perl",
 		"SublimeLinter-contrib-perlcritic",
-		"Theme - SoDaReloaded"
+		"Theme - SoDaReloaded",
+		"TodoReview",
+		"WakaTime"
 	]
 }
