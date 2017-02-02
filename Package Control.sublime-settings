@@ -35,7 +35,6 @@
 		"SublimeLinter-contrib-perl",
 		"SublimeLinter-contrib-perlcritic",
 		"Theme - SoDaReloaded",
-		"TodoReview",
-		"WakaTime"
+		"TodoReview"
 	]
 }
