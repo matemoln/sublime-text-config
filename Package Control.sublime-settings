@@ -17,6 +17,7 @@
 		"GitGutter",
 		"Gitignore",
 		"Indent XML",
+		"Javascript Beautify",
 		"LaTeXing",
 		"Markdown Preview",
 		"MarkdownHighlighting",
@@ -33,6 +34,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-perl",
 		"SublimeLinter-contrib-perlcritic",
+		"SublimeLinter-shellcheck",
 		"Theme - SoDaReloaded",
 		"TodoReview"
 	]

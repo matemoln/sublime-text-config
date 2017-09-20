@@ -21,6 +21,28 @@
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
 	"create_window_at_startup": false,
 	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -34,7 +56,6 @@
 		"*.obj",
 		"*.o",
 		"*.a",
-		"*.lib",
 		"*.so",
 		"*.dylib",
 		"*.ncb",

@@ -18,3 +18,5 @@ EasyDiff/
 #Dont want to share api tokens
 Gist.sublime-settings
 WakaTime.sublime-settings
+Makefile.sublime-settings
+GitGutter.sublime-settings
