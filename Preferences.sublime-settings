@@ -21,7 +21,7 @@
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
 	"create_window_at_startup": false,
 	"draw_white_space": "all",
-	"file_exclude_patterns":
+	"extra_file_exclude_patterns":
 	[
 		"*.pyc",
 		"*.pyo",
@@ -43,7 +43,7 @@
 		"*.db",
 		"*.sublime-workspace"
 	],
-	"folder_exclude_patterns":
+	"extra_folder_exclude_patterns":
 	[
 		".svn",
 		".git",
@@ -66,7 +66,55 @@
 		".DS_Store",
 		"*.psd"
 	],
-	"font_size": 11,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".DS_Store",
+		"__pycache__",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.psd",
+		"node_modules"
+	],
+	"font_face": "SourceCodePro-Regular",
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -79,7 +127,7 @@
 	],
 	"show_encoding": true,
 	"theme": "SoDaReloaded Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"word_wrap": true,
-	"trim_trailing_white_space_on_save": true
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
