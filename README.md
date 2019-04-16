@@ -2,5 +2,5 @@
 1. Clone: `ghq get matemoln/sublime-text-config`
 2. Create symlink:
   - OS X: `ln -s "$HOME/.ghq/github.com/matemoln/sublime-text-config" "$HOME/Library/Application Support/Sublime Text 3/Packages/User"`
-  - Windows: `mklink /j "%HOME%\AppData\Roaming\Sublime Text 3\Packages\User" "%HOME%\.ghq\github.com\matemoln\sublime-text-config"`
+  - Windows: `mklink /j C:\tools\sublimetext\Data\Packages\User" "%HOME%\.ghq\github.com\matemoln\sublime-text-config"`
 3. Enjoy!
