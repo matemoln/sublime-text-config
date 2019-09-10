@@ -17,6 +17,8 @@
 		"Git",
 		"GitGutter",
 		"Gitignore",
+		"Godef",
+		"Gofmt",
 		"Indent XML",
 		"JsPrettier",
 		"LaTeXing",

@@ -20,6 +20,7 @@
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
 	"create_window_at_startup": false,
+	"default_line_ending": "unix",
 	"draw_white_space": "all",
 	"extra_file_exclude_patterns":
 	[
@@ -126,6 +127,7 @@
 		"/usr/local/bin/perltidy"
 	],
 	"show_encoding": true,
+	"sublime_merge_path": "C:\\tools\\sublimemerge\\sublime_merge.exe",
 	"theme": "SoDaReloaded Dark.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
