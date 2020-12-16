@@ -114,10 +114,10 @@
 		"*.psd",
 		"node_modules"
 	],
-	"font_face": "SourceCodePro-Regular",
 	"font_size": 13,
 	"ignored_packages":
 	[
+		"MarkdownHighlighting",
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
@@ -127,9 +127,8 @@
 		"/usr/local/bin/perltidy"
 	],
 	"show_encoding": true,
-	"sublime_merge_path": "C:\\tools\\sublimemerge\\sublime_merge.exe",
 	"theme": "SoDaReloaded Dark.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
