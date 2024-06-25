@@ -115,11 +115,6 @@
 		"node_modules"
 	],
 	"font_size": 13,
-	"ignored_packages":
-	[
-		"MarkdownHighlighting",
-		"Vintage"
-	],
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"perltidy_cmd":
