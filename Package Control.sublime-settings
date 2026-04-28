@@ -5,7 +5,6 @@
 		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
-		"Awk",
 		"Babel",
 		"BinaryPlist",
 		"BracketHighlighter",
@@ -19,11 +18,8 @@
 		"JsPrettier",
 		"LaTeXing",
 		"MarkdownPreview",
-		"ModernPerl",
 		"nginx",
 		"Package Control",
-		"Perl Completions",
-		"PerlTidy",
 		"Python 3",
 		"RemoteSubl",
 		"SideBarEnhancements",
@@ -32,11 +28,13 @@
 		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-perl",
-		"SublimeLinter-contrib-perlcritic",
 		"SublimeLinter-shellcheck",
 		"SyncedSideBar",
+		"Terraform",
 		"Theme - SoDaReloaded",
 		"TodoReview",
-	]
+	],
+	"in_process_packages":
+	[
+	],
 }

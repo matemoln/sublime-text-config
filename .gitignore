@@ -1,4 +1,4 @@
-#Package control cache 
+#Package control cache
 Package Control.last-run
 Package Control.ca-list
 Package Control.ca-bundle
@@ -8,6 +8,7 @@ Package Control.user-ca-bundle
 Package Control.cache/
 Package Control.ca-certs/
 oscrypto-ca-bundle.crt
+formatter.assets/
 
 #Git config - need to set on windows only
 Git.sublime-settings
